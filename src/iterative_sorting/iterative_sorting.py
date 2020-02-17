@@ -33,6 +33,7 @@ def bubble_sort(arr):
 
 
 print(bubble_sort(test), 'bubble')
+#Question for Pascal - I did try to run the bubble algorithm without the nested loop, but ran into problems trying to get it to repeat enough times to work. Is there a way to run it that way or is it only possible with a nested loop?
 
 
 # # STRETCH: implement the Count Sort function below
